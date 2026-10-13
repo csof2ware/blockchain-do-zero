@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" font-family="Helvetica, Arial, sans-serif">
+  <rect width="900" height="520" fill="#0d1117"/>
+  <text x="450" y="46" fill="#ffffff" font-size="24" font-weight="bold" text-anchor="middle">A bússola dos 21 dias</text>
+  <text x="450" y="74" fill="#9aa4b2" font-size="14" text-anchor="middle">4 peças que você vai destravar, uma por aula</text>
+
+  <rect x="330" y="110" width="240" height="80" rx="14" fill="#161b22" stroke="#FFD700" stroke-width="2"/>
+  <text x="450" y="145" fill="#FFD700" font-size="20" font-weight="bold" text-anchor="middle">TOKEN</text>
+  <text x="450" y="170" fill="#9aa4b2" font-size="13" text-anchor="middle">moeda + propriedade + voto</text>
+
+  <line x1="450" y1="190" x2="450" y2="240" stroke="#8b949e" stroke-width="2"/>
+  <line x1="150" y1="240" x2="750" y2="240" stroke="#8b949e" stroke-width="2"/>
+  <line x1="150" y1="240" x2="150" y2="290" stroke="#8b949e" stroke-width="2"/>
+  <line x1="450" y1="240" x2="450" y2="290" stroke="#8b949e" stroke-width="2"/>
+  <line x1="750" y1="240" x2="750" y2="290" stroke="#8b949e" stroke-width="2"/>
+
+  <rect x="50" y="290" width="200" height="110" rx="14" fill="#161b22" stroke="#bc8cff" stroke-width="2"/>
+  <text x="150" y="330" fill="#bc8cff" font-size="19" font-weight="bold" text-anchor="middle">DAO</text>
+  <text x="150" y="356" fill="#9aa4b2" font-size="13" text-anchor="middle">governa as decisões</text>
+  <text x="150" y="378" fill="#9aa4b2" font-size="12" text-anchor="middle">Dia 13</text>
+
+  <rect x="350" y="290" width="200" height="110" rx="14" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
+  <text x="450" y="330" fill="#3fb950" font-size="19" font-weight="bold" text-anchor="middle">DEX</text>
+  <text x="450" y="356" fill="#9aa4b2" font-size="13" text-anchor="middle">troca sem corretor</text>
+  <text x="450" y="378" fill="#9aa4b2" font-size="12" text-anchor="middle">Dia 10</text>
+
+  <rect x="650" y="290" width="200" height="110" rx="14" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
+  <text x="750" y="330" fill="#58a6ff" font-size="19" font-weight="bold" text-anchor="middle">SMART CONTRACT</text>
+  <text x="750" y="356" fill="#9aa4b2" font-size="13" text-anchor="middle">executa as regras</text>
+  <text x="750" y="378" fill="#9aa4b2" font-size="12" text-anchor="middle">Dias 10-11 e 20</text>
+
+  <text x="450" y="470" fill="#9aa4b2" font-size="14" text-anchor="middle">Juntas: um sistema financeiro sem confiança prévia, sem permissão de ninguém.</text>
+</svg>
